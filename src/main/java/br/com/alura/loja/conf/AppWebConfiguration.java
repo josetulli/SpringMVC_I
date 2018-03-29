@@ -50,5 +50,4 @@ public class AppWebConfiguration {
 	public MultipartResolver multipartResolver() {
 		return new StandardServletMultipartResolver();
 	}
-
 }
